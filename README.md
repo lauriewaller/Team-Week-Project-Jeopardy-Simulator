@@ -8,7 +8,7 @@ https://saoud.github.io/Team-Week-Project-Jeopardy-Simulator/
 ## Project Description
 
 ```
-Jeopardy! Simulator is a simulator of the classic game show game Jeopardy! The application uses the api - https://jservice.io/ which is a database of trivia questions. The questions are set up much like the iconic Jeopardy! board and two player can play back and forth. Keeping score based on right answers. Try it below!
+Jeopardy! Simulator is a simulator of the classic game show game Jeopardy! The application uses the api https://jservice.io/, which is a database of trivia questions. The questions are set up much like the iconic Jeopardy! board and allows two players, keeping score based on right answers. Try it below!
 ```
  
 ## Technologies Used
@@ -23,7 +23,7 @@ Jeopardy! Simulator is a simulator of the classic game show game Jeopardy! The a
 ## Set up / Installation requirements
 * Open the terminal in your machine
 * Navigate to the directory where you would like to save this project 
-* Clone the project with $ git clone LINK TO GITHUB
+* Clone the project with $ git clone LINK TO GITHUB REPO
 * Recreate this project's environment with $ `npm install`
 * Create a file to store variables you want to keep secret $ touch .env  
 * Create production environment with terminal command $ `npm run build` 
